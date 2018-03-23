@@ -1,0 +1,231 @@
+[2018-03-23 11:20:51] [DEBUG] [Slf4JLogger.java-debug:71] - Using SLF4J as the default logging framework
+[2018-03-23 11:20:51] [DEBUG] [Slf4JLogger.java-debug:76] - -Dio.netty.eventLoopThreads: 4
+[2018-03-23 11:20:51] [DEBUG] [Slf4JLogger.java-debug:76] - -Dio.netty.noKeySetOptimization: false
+[2018-03-23 11:20:51] [DEBUG] [Slf4JLogger.java-debug:76] - -Dio.netty.selectorAutoRebuildThreshold: 512
+[2018-03-23 11:20:51] [INFO ] [Main.java-main:37] - 服务端开启等待客户端连接……
+[2018-03-23 11:20:51] [DEBUG] [Slf4JLogger.java-debug:76] - -Dio.netty.machineId: 40:8d:5c:bc:22:1b:00:00 (auto-detected)
+[2018-03-23 11:20:51] [DEBUG] [Slf4JLogger.java-debug:76] - -Dio.netty.processId: 8764 (auto-detected)
+[2018-03-23 11:20:52] [DEBUG] [Slf4JLogger.java-debug:71] - -Dio.netty.initialSeedUniquifier: 0x45ce5886138062d8
+[2018-03-23 11:20:52] [DEBUG] [Slf4JLogger.java-debug:76] - -Dio.netty.threadLocalDirectBufferSize: 65536
+[2018-03-23 11:20:52] [DEBUG] [Slf4JLogger.java-debug:71] - Platform: Windows
+[2018-03-23 11:20:52] [DEBUG] [Slf4JLogger.java-debug:76] - Java version: 8
+[2018-03-23 11:20:52] [DEBUG] [Slf4JLogger.java-debug:76] - -Dio.netty.noUnsafe: false
+[2018-03-23 11:20:52] [DEBUG] [Slf4JLogger.java-debug:76] - java.nio.ByteBuffer.cleaner: available
+[2018-03-23 11:20:52] [DEBUG] [Slf4JLogger.java-debug:76] - java.nio.Buffer.address: available
+[2018-03-23 11:20:52] [DEBUG] [Slf4JLogger.java-debug:76] - sun.misc.Unsafe.theUnsafe: available
+[2018-03-23 11:20:52] [DEBUG] [Slf4JLogger.java-debug:71] - sun.misc.Unsafe.copyMemory: available
+[2018-03-23 11:20:52] [DEBUG] [Slf4JLogger.java-debug:76] - java.nio.Bits.unaligned: true
+[2018-03-23 11:20:52] [DEBUG] [Slf4JLogger.java-debug:76] - sun.misc.Unsafe: available
+[2018-03-23 11:20:52] [DEBUG] [Slf4JLogger.java-debug:76] - -Dio.netty.noJavassist: false
+[2018-03-23 11:20:52] [DEBUG] [Slf4JLogger.java-debug:71] - Javassist: unavailable
+[2018-03-23 11:20:52] [DEBUG] [Slf4JLogger.java-debug:71] - You don't have Javassist in your class path or you don't have enough permission to load dynamically generated classes.  Please check the configuration for better performance.
+[2018-03-23 11:20:52] [DEBUG] [Slf4JLogger.java-debug:76] - -Dio.netty.noPreferDirect: false
+[2018-03-23 11:20:52] [DEBUG] [Slf4JLogger.java-debug:76] - Loopback interface: Software Loopback Interface 1
+[2018-03-23 11:20:52] [DEBUG] [Slf4JLogger.java-debug:76] - Loopback address: /127.0.0.1 (primary)
+[2018-03-23 11:20:52] [DEBUG] [Slf4JLogger.java-debug:76] - Loopback address: /0:0:0:0:0:0:0:1
+[2018-03-23 11:22:13] [DEBUG] [Slf4JLogger.java-debug:71] - Using SLF4J as the default logging framework
+[2018-03-23 11:22:13] [DEBUG] [Slf4JLogger.java-debug:76] - -Dio.netty.eventLoopThreads: 4
+[2018-03-23 11:22:13] [DEBUG] [Slf4JLogger.java-debug:76] - -Dio.netty.noKeySetOptimization: false
+[2018-03-23 11:22:13] [DEBUG] [Slf4JLogger.java-debug:76] - -Dio.netty.selectorAutoRebuildThreshold: 512
+[2018-03-23 11:22:13] [INFO ] [Main.java-main:37] - 服务端开启等待客户端连接……
+[2018-03-23 11:22:13] [DEBUG] [Slf4JLogger.java-debug:76] - -Dio.netty.machineId: 40:8d:5c:bc:22:1b:00:00 (auto-detected)
+[2018-03-23 11:22:13] [DEBUG] [Slf4JLogger.java-debug:76] - -Dio.netty.processId: 17976 (auto-detected)
+[2018-03-23 11:22:13] [DEBUG] [Slf4JLogger.java-debug:71] - -Dio.netty.initialSeedUniquifier: 0xe458fbf1a4f0d125
+[2018-03-23 11:22:13] [DEBUG] [Slf4JLogger.java-debug:76] - -Dio.netty.threadLocalDirectBufferSize: 65536
+[2018-03-23 11:22:13] [DEBUG] [Slf4JLogger.java-debug:71] - Platform: Windows
+[2018-03-23 11:22:13] [DEBUG] [Slf4JLogger.java-debug:76] - Java version: 8
+[2018-03-23 11:22:13] [DEBUG] [Slf4JLogger.java-debug:76] - -Dio.netty.noUnsafe: false
+[2018-03-23 11:22:13] [DEBUG] [Slf4JLogger.java-debug:76] - java.nio.ByteBuffer.cleaner: available
+[2018-03-23 11:22:13] [DEBUG] [Slf4JLogger.java-debug:76] - java.nio.Buffer.address: available
+[2018-03-23 11:22:13] [DEBUG] [Slf4JLogger.java-debug:76] - sun.misc.Unsafe.theUnsafe: available
+[2018-03-23 11:22:13] [DEBUG] [Slf4JLogger.java-debug:71] - sun.misc.Unsafe.copyMemory: available
+[2018-03-23 11:22:13] [DEBUG] [Slf4JLogger.java-debug:76] - java.nio.Bits.unaligned: true
+[2018-03-23 11:22:13] [DEBUG] [Slf4JLogger.java-debug:76] - sun.misc.Unsafe: available
+[2018-03-23 11:22:13] [DEBUG] [Slf4JLogger.java-debug:76] - -Dio.netty.noJavassist: false
+[2018-03-23 11:22:13] [DEBUG] [Slf4JLogger.java-debug:71] - Javassist: unavailable
+[2018-03-23 11:22:13] [DEBUG] [Slf4JLogger.java-debug:71] - You don't have Javassist in your class path or you don't have enough permission to load dynamically generated classes.  Please check the configuration for better performance.
+[2018-03-23 11:22:13] [DEBUG] [Slf4JLogger.java-debug:76] - -Dio.netty.noPreferDirect: false
+[2018-03-23 11:22:13] [DEBUG] [Slf4JLogger.java-debug:76] - Loopback interface: Software Loopback Interface 1
+[2018-03-23 11:22:13] [DEBUG] [Slf4JLogger.java-debug:76] - Loopback address: /127.0.0.1 (primary)
+[2018-03-23 11:22:13] [DEBUG] [Slf4JLogger.java-debug:76] - Loopback address: /0:0:0:0:0:0:0:1
+[2018-03-23 11:42:24] [DEBUG] [Slf4JLogger.java-debug:71] - Using SLF4J as the default logging framework
+[2018-03-23 11:42:24] [DEBUG] [Slf4JLogger.java-debug:76] - -Dio.netty.eventLoopThreads: 4
+[2018-03-23 11:42:24] [DEBUG] [Slf4JLogger.java-debug:76] - -Dio.netty.noKeySetOptimization: false
+[2018-03-23 11:42:24] [DEBUG] [Slf4JLogger.java-debug:76] - -Dio.netty.selectorAutoRebuildThreshold: 512
+[2018-03-23 11:42:24] [INFO ] [Main.java-main:37] - 服务端开启等待客户端连接……
+[2018-03-23 11:42:24] [DEBUG] [Slf4JLogger.java-debug:76] - -Dio.netty.machineId: 40:8d:5c:bc:22:1b:00:00 (auto-detected)
+[2018-03-23 11:42:24] [DEBUG] [Slf4JLogger.java-debug:76] - -Dio.netty.processId: 1992 (auto-detected)
+[2018-03-23 11:42:24] [DEBUG] [Slf4JLogger.java-debug:71] - -Dio.netty.initialSeedUniquifier: 0x6300f2fae295565a
+[2018-03-23 11:42:24] [DEBUG] [Slf4JLogger.java-debug:76] - -Dio.netty.threadLocalDirectBufferSize: 65536
+[2018-03-23 11:42:24] [DEBUG] [Slf4JLogger.java-debug:71] - Platform: Windows
+[2018-03-23 11:42:24] [DEBUG] [Slf4JLogger.java-debug:76] - Java version: 8
+[2018-03-23 11:42:24] [DEBUG] [Slf4JLogger.java-debug:76] - -Dio.netty.noUnsafe: false
+[2018-03-23 11:42:24] [DEBUG] [Slf4JLogger.java-debug:76] - java.nio.ByteBuffer.cleaner: available
+[2018-03-23 11:42:24] [DEBUG] [Slf4JLogger.java-debug:76] - java.nio.Buffer.address: available
+[2018-03-23 11:42:24] [DEBUG] [Slf4JLogger.java-debug:76] - sun.misc.Unsafe.theUnsafe: available
+[2018-03-23 11:42:24] [DEBUG] [Slf4JLogger.java-debug:71] - sun.misc.Unsafe.copyMemory: available
+[2018-03-23 11:42:24] [DEBUG] [Slf4JLogger.java-debug:76] - java.nio.Bits.unaligned: true
+[2018-03-23 11:42:24] [DEBUG] [Slf4JLogger.java-debug:76] - sun.misc.Unsafe: available
+[2018-03-23 11:42:24] [DEBUG] [Slf4JLogger.java-debug:76] - -Dio.netty.noJavassist: false
+[2018-03-23 11:42:24] [DEBUG] [Slf4JLogger.java-debug:71] - Javassist: unavailable
+[2018-03-23 11:42:24] [DEBUG] [Slf4JLogger.java-debug:71] - You don't have Javassist in your class path or you don't have enough permission to load dynamically generated classes.  Please check the configuration for better performance.
+[2018-03-23 11:42:24] [DEBUG] [Slf4JLogger.java-debug:76] - -Dio.netty.noPreferDirect: false
+[2018-03-23 11:42:24] [DEBUG] [Slf4JLogger.java-debug:76] - Loopback interface: Software Loopback Interface 1
+[2018-03-23 11:42:24] [DEBUG] [Slf4JLogger.java-debug:76] - Loopback address: /127.0.0.1 (primary)
+[2018-03-23 11:42:24] [DEBUG] [Slf4JLogger.java-debug:76] - Loopback address: /0:0:0:0:0:0:0:1
+[2018-03-23 11:42:33] [DEBUG] [Slf4JLogger.java-debug:81] - -Dio.netty.leakDetectionLevel: simple
+[2018-03-23 11:42:33] [INFO ] [MyWebSocketHandler.java-channelActive:82] - 客户端与服务端建立链接……
+[2018-03-23 11:42:33] [DEBUG] [Slf4JLogger.java-debug:71] - [id: 0x3ff3472f, /0:0:0:0:0:0:0:1:13260 => /0:0:0:0:0:0:0:1:7001] WS Version V13 server handshake
+[2018-03-23 11:42:33] [DEBUG] [Slf4JLogger.java-debug:71] - WS Version 13 Server Handshake key: aC3qFZ+mWLSFmSH3vdZcjQ==. Response: v3wo/h1tLF3y9Don58PUu+S/Pj4=.
+[2018-03-23 11:43:00] [DEBUG] [Slf4JLogger.java-debug:76] - Decoding WebSocket Frame opCode=1
+[2018-03-23 11:43:00] [DEBUG] [Slf4JLogger.java-debug:76] - Decoding WebSocket Frame length=5
+[2018-03-23 11:43:00] [INFO ] [MyWebSocketHandler.java-handWebSocketFrame:200] - 服务端收到客户都按的消息======>>>Hello
+[2018-03-23 11:43:00] [DEBUG] [Slf4JLogger.java-debug:71] - Encoding WebSocket Frame opCode=1 length=48
+[2018-03-23 11:43:08] [DEBUG] [Slf4JLogger.java-debug:76] - Decoding WebSocket Frame opCode=8
+[2018-03-23 11:43:08] [DEBUG] [Slf4JLogger.java-debug:76] - Decoding WebSocket Frame length=2
+[2018-03-23 11:43:08] [DEBUG] [Slf4JLogger.java-debug:71] - Encoding WebSocket Frame opCode=8 length=2
+[2018-03-23 11:43:08] [INFO ] [MyWebSocketHandler.java-handWebSocketFrame:191] - 目前我们不支持二进制消息
+[2018-03-23 11:43:08] [INFO ] [MyWebSocketHandler.java-channelInactive:98] - 客户端与服务端断开链接……
+[2018-03-23 11:43:08] [INFO ] [MyWebSocketHandler.java-channelActive:82] - 客户端与服务端建立链接……
+[2018-03-23 11:43:08] [DEBUG] [Slf4JLogger.java-debug:71] - [id: 0x35ba0d1e, /0:0:0:0:0:0:0:1:13350 => /0:0:0:0:0:0:0:1:7001] WS Version V13 server handshake
+[2018-03-23 11:43:08] [DEBUG] [Slf4JLogger.java-debug:71] - WS Version 13 Server Handshake key: tAKaUstXtL4eYsbhRRZ4nw==. Response: xutR5KdLNaYOM6lxwVYJULDX/fE=.
+[2018-03-23 11:43:12] [DEBUG] [Slf4JLogger.java-debug:76] - Decoding WebSocket Frame opCode=8
+[2018-03-23 11:43:12] [DEBUG] [Slf4JLogger.java-debug:76] - Decoding WebSocket Frame length=2
+[2018-03-23 11:43:12] [DEBUG] [Slf4JLogger.java-debug:71] - Encoding WebSocket Frame opCode=8 length=2
+[2018-03-23 11:43:12] [INFO ] [MyWebSocketHandler.java-handWebSocketFrame:191] - 目前我们不支持二进制消息
+[2018-03-23 11:43:12] [INFO ] [MyWebSocketHandler.java-channelInactive:98] - 客户端与服务端断开链接……
+[2018-03-23 11:43:12] [INFO ] [MyWebSocketHandler.java-channelActive:82] - 客户端与服务端建立链接……
+[2018-03-23 11:43:12] [DEBUG] [Slf4JLogger.java-debug:71] - [id: 0x29c100a0, /0:0:0:0:0:0:0:1:13358 => /0:0:0:0:0:0:0:1:7001] WS Version V13 server handshake
+[2018-03-23 11:43:12] [DEBUG] [Slf4JLogger.java-debug:71] - WS Version 13 Server Handshake key: BpJH3VgZzaNGDVyMIe9KLw==. Response: VKqfU9f1PLwQr+PGWnGVPa9N+5c=.
+[2018-03-23 11:43:14] [DEBUG] [Slf4JLogger.java-debug:76] - Decoding WebSocket Frame opCode=8
+[2018-03-23 11:43:14] [DEBUG] [Slf4JLogger.java-debug:76] - Decoding WebSocket Frame length=2
+[2018-03-23 11:43:14] [DEBUG] [Slf4JLogger.java-debug:71] - Encoding WebSocket Frame opCode=8 length=2
+[2018-03-23 11:43:14] [INFO ] [MyWebSocketHandler.java-handWebSocketFrame:191] - 目前我们不支持二进制消息
+[2018-03-23 11:43:14] [INFO ] [MyWebSocketHandler.java-channelInactive:98] - 客户端与服务端断开链接……
+[2018-03-23 11:43:14] [INFO ] [MyWebSocketHandler.java-channelActive:82] - 客户端与服务端建立链接……
+[2018-03-23 11:43:14] [DEBUG] [Slf4JLogger.java-debug:71] - [id: 0xb8cd44c4, /0:0:0:0:0:0:0:1:13367 => /0:0:0:0:0:0:0:1:7001] WS Version V13 server handshake
+[2018-03-23 11:43:14] [DEBUG] [Slf4JLogger.java-debug:71] - WS Version 13 Server Handshake key: O/U0y+oKmOsmbPMgBfKTyA==. Response: SIz9torVuQStFCjlhSAz0kamDjs=.
+[2018-03-23 11:43:16] [DEBUG] [Slf4JLogger.java-debug:76] - Decoding WebSocket Frame opCode=8
+[2018-03-23 11:43:16] [DEBUG] [Slf4JLogger.java-debug:76] - Decoding WebSocket Frame length=2
+[2018-03-23 11:43:16] [DEBUG] [Slf4JLogger.java-debug:71] - Encoding WebSocket Frame opCode=8 length=2
+[2018-03-23 11:43:16] [INFO ] [MyWebSocketHandler.java-handWebSocketFrame:191] - 目前我们不支持二进制消息
+[2018-03-23 11:43:16] [INFO ] [MyWebSocketHandler.java-channelInactive:98] - 客户端与服务端断开链接……
+[2018-03-23 11:43:16] [INFO ] [MyWebSocketHandler.java-channelActive:82] - 客户端与服务端建立链接……
+[2018-03-23 11:43:16] [DEBUG] [Slf4JLogger.java-debug:71] - [id: 0xea475682, /0:0:0:0:0:0:0:1:13373 => /0:0:0:0:0:0:0:1:7001] WS Version V13 server handshake
+[2018-03-23 11:43:16] [DEBUG] [Slf4JLogger.java-debug:71] - WS Version 13 Server Handshake key: hGD/Pcz4A01M2sTrHLjrBQ==. Response: DXDbBE3YlZxoOn9uBAw1dFDe4o0=.
+[2018-03-23 11:43:18] [DEBUG] [Slf4JLogger.java-debug:76] - Decoding WebSocket Frame opCode=8
+[2018-03-23 11:43:18] [DEBUG] [Slf4JLogger.java-debug:76] - Decoding WebSocket Frame length=2
+[2018-03-23 11:43:18] [DEBUG] [Slf4JLogger.java-debug:71] - Encoding WebSocket Frame opCode=8 length=2
+[2018-03-23 11:43:18] [INFO ] [MyWebSocketHandler.java-handWebSocketFrame:191] - 目前我们不支持二进制消息
+[2018-03-23 11:43:18] [INFO ] [MyWebSocketHandler.java-channelInactive:98] - 客户端与服务端断开链接……
+[2018-03-23 11:43:18] [INFO ] [MyWebSocketHandler.java-channelActive:82] - 客户端与服务端建立链接……
+[2018-03-23 11:43:18] [DEBUG] [Slf4JLogger.java-debug:71] - [id: 0xcd2f5408, /0:0:0:0:0:0:0:1:13376 => /0:0:0:0:0:0:0:1:7001] WS Version V13 server handshake
+[2018-03-23 11:43:18] [DEBUG] [Slf4JLogger.java-debug:71] - WS Version 13 Server Handshake key: c/72No+fxVksc2Ws0bIpBA==. Response: yRBrkQStUB+4e4LOnI4e2Nszqs0=.
+[2018-03-23 11:43:19] [DEBUG] [Slf4JLogger.java-debug:76] - Decoding WebSocket Frame opCode=8
+[2018-03-23 11:43:19] [DEBUG] [Slf4JLogger.java-debug:76] - Decoding WebSocket Frame length=2
+[2018-03-23 11:43:19] [DEBUG] [Slf4JLogger.java-debug:71] - Encoding WebSocket Frame opCode=8 length=2
+[2018-03-23 11:43:19] [INFO ] [MyWebSocketHandler.java-handWebSocketFrame:191] - 目前我们不支持二进制消息
+[2018-03-23 11:43:19] [INFO ] [MyWebSocketHandler.java-channelInactive:98] - 客户端与服务端断开链接……
+[2018-03-23 11:43:19] [INFO ] [MyWebSocketHandler.java-channelActive:82] - 客户端与服务端建立链接……
+[2018-03-23 11:43:19] [DEBUG] [Slf4JLogger.java-debug:71] - [id: 0x252aa6dc, /0:0:0:0:0:0:0:1:13381 => /0:0:0:0:0:0:0:1:7001] WS Version V13 server handshake
+[2018-03-23 11:43:19] [DEBUG] [Slf4JLogger.java-debug:71] - WS Version 13 Server Handshake key: kihf97MJah6Jq71NHIZjxA==. Response: WQYiVeFVH8KYyXQOB+ukXp+yVuA=.
+[2018-03-23 11:43:26] [DEBUG] [Slf4JLogger.java-debug:76] - Decoding WebSocket Frame opCode=1
+[2018-03-23 11:43:26] [DEBUG] [Slf4JLogger.java-debug:76] - Decoding WebSocket Frame length=4
+[2018-03-23 11:43:26] [INFO ] [MyWebSocketHandler.java-handWebSocketFrame:200] - 服务端收到客户都按的消息======>>>1212
+[2018-03-23 11:43:26] [DEBUG] [Slf4JLogger.java-debug:71] - Encoding WebSocket Frame opCode=1 length=47
+[2018-03-23 11:43:28] [DEBUG] [Slf4JLogger.java-debug:76] - Decoding WebSocket Frame opCode=1
+[2018-03-23 11:43:28] [DEBUG] [Slf4JLogger.java-debug:76] - Decoding WebSocket Frame length=8
+[2018-03-23 11:43:28] [INFO ] [MyWebSocketHandler.java-handWebSocketFrame:200] - 服务端收到客户都按的消息======>>>12121212
+[2018-03-23 11:43:28] [DEBUG] [Slf4JLogger.java-debug:71] - Encoding WebSocket Frame opCode=1 length=51
+[2018-03-23 11:43:28] [DEBUG] [Slf4JLogger.java-debug:76] - Decoding WebSocket Frame opCode=8
+[2018-03-23 11:43:28] [DEBUG] [Slf4JLogger.java-debug:76] - Decoding WebSocket Frame length=2
+[2018-03-23 11:43:28] [DEBUG] [Slf4JLogger.java-debug:71] - Encoding WebSocket Frame opCode=8 length=2
+[2018-03-23 11:43:28] [INFO ] [MyWebSocketHandler.java-handWebSocketFrame:191] - 目前我们不支持二进制消息
+[2018-03-23 11:43:28] [INFO ] [MyWebSocketHandler.java-channelInactive:98] - 客户端与服务端断开链接……
+[2018-03-23 11:43:28] [INFO ] [MyWebSocketHandler.java-channelActive:82] - 客户端与服务端建立链接……
+[2018-03-23 11:43:28] [DEBUG] [Slf4JLogger.java-debug:71] - [id: 0xa70b742c, /0:0:0:0:0:0:0:1:13398 => /0:0:0:0:0:0:0:1:7001] WS Version V13 server handshake
+[2018-03-23 11:43:28] [DEBUG] [Slf4JLogger.java-debug:71] - WS Version 13 Server Handshake key: mDreff+CflxXuhU2Py+n9Q==. Response: ZCzE/MMdAjcE5xlBOhHAXcLp0mI=.
+[2018-03-23 11:43:30] [DEBUG] [Slf4JLogger.java-debug:76] - Decoding WebSocket Frame opCode=1
+[2018-03-23 11:43:30] [DEBUG] [Slf4JLogger.java-debug:76] - Decoding WebSocket Frame length=4
+[2018-03-23 11:43:30] [INFO ] [MyWebSocketHandler.java-handWebSocketFrame:200] - 服务端收到客户都按的消息======>>>1212
+[2018-03-23 11:43:30] [DEBUG] [Slf4JLogger.java-debug:71] - Encoding WebSocket Frame opCode=1 length=47
+[2018-03-23 11:43:32] [DEBUG] [Slf4JLogger.java-debug:76] - Decoding WebSocket Frame opCode=1
+[2018-03-23 11:43:32] [DEBUG] [Slf4JLogger.java-debug:76] - Decoding WebSocket Frame length=8
+[2018-03-23 11:43:32] [INFO ] [MyWebSocketHandler.java-handWebSocketFrame:200] - 服务端收到客户都按的消息======>>>12121212
+[2018-03-23 11:43:32] [DEBUG] [Slf4JLogger.java-debug:71] - Encoding WebSocket Frame opCode=1 length=51
+[2018-03-23 11:43:34] [DEBUG] [Slf4JLogger.java-debug:76] - Decoding WebSocket Frame opCode=1
+[2018-03-23 11:43:34] [DEBUG] [Slf4JLogger.java-debug:76] - Decoding WebSocket Frame length=8
+[2018-03-23 11:43:34] [INFO ] [MyWebSocketHandler.java-handWebSocketFrame:200] - 服务端收到客户都按的消息======>>>12121212
+[2018-03-23 11:43:34] [DEBUG] [Slf4JLogger.java-debug:71] - Encoding WebSocket Frame opCode=1 length=51
+[2018-03-23 11:43:35] [DEBUG] [Slf4JLogger.java-debug:76] - Decoding WebSocket Frame opCode=1
+[2018-03-23 11:43:35] [DEBUG] [Slf4JLogger.java-debug:76] - Decoding WebSocket Frame length=12
+[2018-03-23 11:43:35] [INFO ] [MyWebSocketHandler.java-handWebSocketFrame:200] - 服务端收到客户都按的消息======>>>121212121212
+[2018-03-23 11:43:35] [DEBUG] [Slf4JLogger.java-debug:71] - Encoding WebSocket Frame opCode=1 length=55
+[2018-03-23 11:44:24] [DEBUG] [Slf4JLogger.java-debug:76] - Decoding WebSocket Frame opCode=1
+[2018-03-23 11:44:24] [DEBUG] [Slf4JLogger.java-debug:76] - Decoding WebSocket Frame length=12
+[2018-03-23 11:44:24] [INFO ] [MyWebSocketHandler.java-handWebSocketFrame:200] - 服务端收到客户都按的消息======>>>121212121212
+[2018-03-23 11:44:24] [DEBUG] [Slf4JLogger.java-debug:71] - Encoding WebSocket Frame opCode=1 length=55
+[2018-03-23 11:44:25] [DEBUG] [Slf4JLogger.java-debug:76] - Decoding WebSocket Frame opCode=1
+[2018-03-23 11:44:25] [DEBUG] [Slf4JLogger.java-debug:76] - Decoding WebSocket Frame length=12
+[2018-03-23 11:44:25] [INFO ] [MyWebSocketHandler.java-handWebSocketFrame:200] - 服务端收到客户都按的消息======>>>121212121212
+[2018-03-23 11:44:25] [DEBUG] [Slf4JLogger.java-debug:71] - Encoding WebSocket Frame opCode=1 length=55
+[2018-03-23 11:44:25] [DEBUG] [Slf4JLogger.java-debug:76] - Decoding WebSocket Frame opCode=1
+[2018-03-23 11:44:25] [DEBUG] [Slf4JLogger.java-debug:76] - Decoding WebSocket Frame length=12
+[2018-03-23 11:44:25] [INFO ] [MyWebSocketHandler.java-handWebSocketFrame:200] - 服务端收到客户都按的消息======>>>121212121212
+[2018-03-23 11:44:25] [DEBUG] [Slf4JLogger.java-debug:71] - Encoding WebSocket Frame opCode=1 length=55
+[2018-03-23 11:44:25] [DEBUG] [Slf4JLogger.java-debug:76] - Decoding WebSocket Frame opCode=1
+[2018-03-23 11:44:25] [DEBUG] [Slf4JLogger.java-debug:76] - Decoding WebSocket Frame length=12
+[2018-03-23 11:44:25] [INFO ] [MyWebSocketHandler.java-handWebSocketFrame:200] - 服务端收到客户都按的消息======>>>121212121212
+[2018-03-23 11:44:25] [DEBUG] [Slf4JLogger.java-debug:71] - Encoding WebSocket Frame opCode=1 length=55
+[2018-03-23 11:44:26] [DEBUG] [Slf4JLogger.java-debug:76] - Decoding WebSocket Frame opCode=1
+[2018-03-23 11:44:26] [DEBUG] [Slf4JLogger.java-debug:76] - Decoding WebSocket Frame length=16
+[2018-03-23 11:44:26] [INFO ] [MyWebSocketHandler.java-handWebSocketFrame:200] - 服务端收到客户都按的消息======>>>1212121212121212
+[2018-03-23 11:44:26] [DEBUG] [Slf4JLogger.java-debug:71] - Encoding WebSocket Frame opCode=1 length=59
+[2018-03-23 11:44:26] [DEBUG] [Slf4JLogger.java-debug:76] - Decoding WebSocket Frame opCode=1
+[2018-03-23 11:44:26] [DEBUG] [Slf4JLogger.java-debug:76] - Decoding WebSocket Frame length=16
+[2018-03-23 11:44:26] [INFO ] [MyWebSocketHandler.java-handWebSocketFrame:200] - 服务端收到客户都按的消息======>>>1212121212121212
+[2018-03-23 11:44:26] [DEBUG] [Slf4JLogger.java-debug:71] - Encoding WebSocket Frame opCode=1 length=59
+[2018-03-23 11:44:26] [DEBUG] [Slf4JLogger.java-debug:76] - Decoding WebSocket Frame opCode=1
+[2018-03-23 11:44:26] [DEBUG] [Slf4JLogger.java-debug:76] - Decoding WebSocket Frame length=16
+[2018-03-23 11:44:26] [INFO ] [MyWebSocketHandler.java-handWebSocketFrame:200] - 服务端收到客户都按的消息======>>>1212121212121212
+[2018-03-23 11:44:26] [DEBUG] [Slf4JLogger.java-debug:71] - Encoding WebSocket Frame opCode=1 length=59
+[2018-03-23 11:44:26] [DEBUG] [Slf4JLogger.java-debug:76] - Decoding WebSocket Frame opCode=1
+[2018-03-23 11:44:26] [DEBUG] [Slf4JLogger.java-debug:76] - Decoding WebSocket Frame length=16
+[2018-03-23 11:44:26] [INFO ] [MyWebSocketHandler.java-handWebSocketFrame:200] - 服务端收到客户都按的消息======>>>1212121212121212
+[2018-03-23 11:44:26] [DEBUG] [Slf4JLogger.java-debug:71] - Encoding WebSocket Frame opCode=1 length=59
+[2018-03-23 11:44:27] [DEBUG] [Slf4JLogger.java-debug:76] - Decoding WebSocket Frame opCode=1
+[2018-03-23 11:44:27] [DEBUG] [Slf4JLogger.java-debug:76] - Decoding WebSocket Frame length=16
+[2018-03-23 11:44:27] [INFO ] [MyWebSocketHandler.java-handWebSocketFrame:200] - 服务端收到客户都按的消息======>>>1212121212121212
+[2018-03-23 11:44:27] [DEBUG] [Slf4JLogger.java-debug:71] - Encoding WebSocket Frame opCode=1 length=59
+[2018-03-23 11:44:27] [DEBUG] [Slf4JLogger.java-debug:76] - Decoding WebSocket Frame opCode=1
+[2018-03-23 11:44:27] [DEBUG] [Slf4JLogger.java-debug:76] - Decoding WebSocket Frame length=16
+[2018-03-23 11:44:27] [INFO ] [MyWebSocketHandler.java-handWebSocketFrame:200] - 服务端收到客户都按的消息======>>>1212121212121212
+[2018-03-23 11:44:27] [DEBUG] [Slf4JLogger.java-debug:71] - Encoding WebSocket Frame opCode=1 length=59
+[2018-03-23 11:44:27] [DEBUG] [Slf4JLogger.java-debug:76] - Decoding WebSocket Frame opCode=1
+[2018-03-23 11:44:27] [DEBUG] [Slf4JLogger.java-debug:76] - Decoding WebSocket Frame length=16
+[2018-03-23 11:44:27] [INFO ] [MyWebSocketHandler.java-handWebSocketFrame:200] - 服务端收到客户都按的消息======>>>1212121212121212
+[2018-03-23 11:44:27] [DEBUG] [Slf4JLogger.java-debug:71] - Encoding WebSocket Frame opCode=1 length=59
+[2018-03-23 11:44:30] [DEBUG] [Slf4JLogger.java-debug:76] - Decoding WebSocket Frame opCode=1
+[2018-03-23 11:44:30] [DEBUG] [Slf4JLogger.java-debug:76] - Decoding WebSocket Frame length=5
+[2018-03-23 11:44:30] [INFO ] [MyWebSocketHandler.java-handWebSocketFrame:200] - 服务端收到客户都按的消息======>>>12121
+[2018-03-23 11:44:30] [DEBUG] [Slf4JLogger.java-debug:71] - Encoding WebSocket Frame opCode=1 length=48
+[2018-03-23 11:44:33] [DEBUG] [Slf4JLogger.java-debug:76] - Decoding WebSocket Frame opCode=1
+[2018-03-23 11:44:33] [DEBUG] [Slf4JLogger.java-debug:76] - Decoding WebSocket Frame length=3
+[2018-03-23 11:44:33] [INFO ] [MyWebSocketHandler.java-handWebSocketFrame:200] - 服务端收到客户都按的消息======>>>123
+[2018-03-23 11:44:33] [DEBUG] [Slf4JLogger.java-debug:71] - Encoding WebSocket Frame opCode=1 length=46
+[2018-03-23 11:44:44] [DEBUG] [Slf4JLogger.java-debug:76] - Decoding WebSocket Frame opCode=8
+[2018-03-23 11:44:44] [DEBUG] [Slf4JLogger.java-debug:76] - Decoding WebSocket Frame length=2
+[2018-03-23 11:44:44] [DEBUG] [Slf4JLogger.java-debug:71] - Encoding WebSocket Frame opCode=8 length=2
+[2018-03-23 11:44:44] [INFO ] [MyWebSocketHandler.java-handWebSocketFrame:191] - 目前我们不支持二进制消息
+[2018-03-23 11:44:44] [INFO ] [MyWebSocketHandler.java-channelInactive:98] - 客户端与服务端断开链接……
+[2018-03-23 11:44:44] [INFO ] [MyWebSocketHandler.java-channelActive:82] - 客户端与服务端建立链接……
+[2018-03-23 11:44:44] [DEBUG] [Slf4JLogger.java-debug:71] - [id: 0x7fe7419b, /0:0:0:0:0:0:0:1:13557 => /0:0:0:0:0:0:0:1:7001] WS Version V13 server handshake
+[2018-03-23 11:44:44] [DEBUG] [Slf4JLogger.java-debug:71] - WS Version 13 Server Handshake key: NS0va2DjioR1Lh8+VUWnIA==. Response: T3WonhDqf0MlzLYdIEZX1tpgBAc=.
+[2018-03-23 11:44:46] [DEBUG] [Slf4JLogger.java-debug:76] - Decoding WebSocket Frame opCode=1
+[2018-03-23 11:44:46] [DEBUG] [Slf4JLogger.java-debug:76] - Decoding WebSocket Frame length=6
+[2018-03-23 11:44:46] [INFO ] [MyWebSocketHandler.java-handWebSocketFrame:200] - 服务端收到客户都按的消息======>>>121212
+[2018-03-23 11:44:46] [DEBUG] [Slf4JLogger.java-debug:71] - Encoding WebSocket Frame opCode=1 length=49
+[2018-03-23 11:44:54] [DEBUG] [Slf4JLogger.java-debug:76] - Decoding WebSocket Frame opCode=1
+[2018-03-23 11:44:54] [DEBUG] [Slf4JLogger.java-debug:76] - Decoding WebSocket Frame length=11
+[2018-03-23 11:44:54] [INFO ] [MyWebSocketHandler.java-handWebSocketFrame:200] - 服务端收到客户都按的消息======>>>12121221212
+[2018-03-23 11:44:54] [DEBUG] [Slf4JLogger.java-debug:71] - Encoding WebSocket Frame opCode=1 length=54
